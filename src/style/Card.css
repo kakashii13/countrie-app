@@ -1,0 +1,38 @@
+.Card {
+  height: auto;
+  width: 250px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.Card__text__container {
+  padding: 15px 15px 35px 15px;
+}
+
+.Card__text__title {
+  font-size: 15px;
+}
+
+.Card__text__info {
+  font-size: 13px;
+}
+
+.Card__text__info span {
+  font-weight: bold;
+}
+
+.Card__img__container {
+  width: 260px;
+  height: auto;
+  padding: 0;
+  margin: 0;
+}
+
+.Card__img {
+  height: 160px;
+  width: 250px;
+}

@@ -1,0 +1,14 @@
+.Filter {
+  padding: 10px;
+  background-color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
+  cursor: pointer;
+}
+
+.Filter option {
+  border: none;
+  cursor: pointer;
+}

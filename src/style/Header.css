@@ -1,0 +1,16 @@
+.Header {
+  padding: 20px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
+}
+
+.Header__title {
+  font-size: 20px;
+  margin: 0 50px;
+}
+
+.Header__dark-mode {
+  margin: 0 50px;
+}
